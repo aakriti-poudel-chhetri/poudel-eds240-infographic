@@ -3,7 +3,9 @@
 This repository contains the details of the final project for the course EDS 240 - Data Visualization & Communication for the Master of Environmental Data Science (MEDS) program.
 
 ## Background
-The California Safe Cosmetics Program (CSCP) collects information on cosmetic products sold in California that contain ingredients known or suspected to cause cancer, birth defects, or reproductive harm. The program makes this information publicly available to promote awareness and safety.
+Research in cosmetic science shows that many chemicals are added to cosmetics to improve shelf life, texture, color, or fragrance. However, studies have found that some of these chemicals, such as parabens, phthalates, and formaldehyde releasing agents, may be linked to health concerns like hormone disruption, skin irritation, birth defects, reproductive harm or long-term risks such as cancer. People use cosmetic products regularly, repeated exposure to these chemicals can increase potential health risks. As a result, researchers emphasize the need to carefully review cosmetic ingredients and promote safer alternatives.
+
+The California Safe Cosmetics Program (CSCP) helps address these concerns by tracking cosmetic products sold in California that contain ingredients known or suspected to cause these health risks. Companies must report these products, creating a reliable record of potentially harmful chemicals in cosmetics. This information is made available to the public, allowing consumers to make informed choices about the products they use. By improving transparency and awareness, the CSCP supports public health and encourages the use of safer cosmetic products.
 
 ## Objective
 The goal of this project is to analyze the CSCP data to identify which cosmetic products and brands most often contain harmful chemicals, find the most common hazardous ingredients, and explore patterns across different product types. This helps make cosmetic safety information easier to understand and use.
